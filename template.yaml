@@ -11,7 +11,7 @@ resources:
   video: 'ppt-pics/sup-vid.mp4'
 #   demo: https://colab.research.google.com/
 #   huggingface: https://huggingface.co/
-description: web page that contains supplementary materials for DR-LfD
+description: web page that contains supplementary materials for DR-LfD paper.
 
 image: https://denkiwakame.github.io/academic-project-template/teaser.jpg
 url: https://denkiwakame.github.io/academic-project-template
